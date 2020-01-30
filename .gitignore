@@ -1,5 +1,5 @@
-dist/
-bundles/
+# dist/
+# bundles/
 
 package/
 npm-debug.log

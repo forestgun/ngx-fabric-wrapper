@@ -1,7 +1,7 @@
 {
   "name": "ngx-fabric-wrapper",
-  "description": "Angular wrapper library for Fabric",
-  "bugs": "https://github.com/zefoy/ngx-fabric-wrapper/issues",
+  "description": " <FORK> Angular wrapper library for Fabric",
+  "bugs": "https://github.com/forestgun/ngx-fabric-wrapper/issues",
   "license": "MIT",
   "version": "8.0.0",
   "main": "./bundles/ngx-fabric-wrapper.umd.js",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zefoy/ngx-fabric-wrapper.git"
+    "url": "https://github.com/forestgun/ngx-fabric-wrapper.git"
   },
   "dependencies": {
-    "fabric": "^3.6.1",
+    "fabric": "git+https://github.com/forestgun/fabric.js.git",
     "resize-observer-polyfill": "^1.5.0"
   },
   "devDependencies": {
